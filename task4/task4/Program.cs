@@ -11,6 +11,3 @@ void SayHello()
 }
 
 SayHello();
-
-
-
