@@ -4,3 +4,5 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Xml.Linq;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+
+Console.WriteLine("Hello world");
